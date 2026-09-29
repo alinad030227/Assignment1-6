@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.4)  29 SEP 2026 21:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.4)  29 SEP 2026 22:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -153,6 +153,35 @@ Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 \l_MT_below_shortintertext_sep=\dimen166
 \xmathstrut@box=\box55
 \xmathstrut@dim=\dimen167
+) (a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2026/03/01 v3.2d Micro-typographical refinements (RS)
+ (a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count299
+)
+\MT@toks=\toks31
+\MT@tempbox=\box56
+\MT@count=\count300
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1084.
+LaTeX Info: Redefining \leftprotrusion on input line 1085.
+\MT@prot@toks=\toks32
+LaTeX Info: Redefining \rightprotrusion on input line 1104.
+LaTeX Info: Redefining \textls on input line 1449.
+\MT@outer@kern=\dimen168
+LaTeX Info: Redefining \microtypecontext on input line 2053.
+LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
+\MT@listname@count=\count301
+ (a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2026/03/01 v3.2d Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 944.
+LaTeX Info: Redefining \lslig on input line 944.
+\MT@outer@space=\skip61
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2026/03/01 v3.2d microtype main configuration file (RS)
+)
+LaTeX Info: Redefining \microtypesetup on input line 3065.
 ) (a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/tex/generic/iftex/ifvtex.sty
@@ -160,64 +189,35 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
-\Gm@cnth=\count299
-\Gm@cntv=\count300
-\c@Gm@tempcnt=\count301
-\Gm@bindingoffset=\dimen168
-\Gm@wd@mp=\dimen169
-\Gm@odd@mp=\dimen170
-\Gm@even@mp=\dimen171
-\Gm@layoutwidth=\dimen172
-\Gm@layoutheight=\dimen173
-\Gm@layouthoffset=\dimen174
-\Gm@layoutvoffset=\dimen175
-\Gm@dimlist=\toks31
+\Gm@cnth=\count302
+\Gm@cntv=\count303
+\c@Gm@tempcnt=\count304
+\Gm@bindingoffset=\dimen169
+\Gm@wd@mp=\dimen170
+\Gm@odd@mp=\dimen171
+\Gm@even@mp=\dimen172
+\Gm@layoutwidth=\dimen173
+\Gm@layoutheight=\dimen174
+\Gm@layouthoffset=\dimen175
+\Gm@layoutvoffset=\dimen176
+\Gm@dimlist=\toks33
 ) (a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
-\f@nch@headwidth=\skip61
-\f@nch@offset@elh=\skip62
-\f@nch@offset@erh=\skip63
-\f@nch@offset@olh=\skip64
-\f@nch@offset@orh=\skip65
-\f@nch@offset@elf=\skip66
-\f@nch@offset@erf=\skip67
-\f@nch@offset@olf=\skip68
-\f@nch@offset@orf=\skip69
-\f@nch@height=\skip70
-\f@nch@footalignment=\skip71
-\f@nch@widthL=\skip72
-\f@nch@widthC=\skip73
-\f@nch@widthR=\skip74
-\@temptokenb=\toks32
-) (a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2026/03/01 v3.2d Micro-typographical refinements (RS)
- (a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count302
-)
-\MT@toks=\toks33
-\MT@tempbox=\box56
-\MT@count=\count303
-LaTeX Info: Redefining \noprotrusionifhmode on input line 1084.
-LaTeX Info: Redefining \leftprotrusion on input line 1085.
-\MT@prot@toks=\toks34
-LaTeX Info: Redefining \rightprotrusion on input line 1104.
-LaTeX Info: Redefining \textls on input line 1449.
-\MT@outer@kern=\dimen176
-LaTeX Info: Redefining \microtypecontext on input line 2053.
-LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
-\MT@listname@count=\count304
- (a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/tex/latex/microtype/microtype-pdftex.def
-File: microtype-pdftex.def 2026/03/01 v3.2d Definitions specific to pdftex (RS)
-LaTeX Info: Redefining \lsstyle on input line 944.
-LaTeX Info: Redefining \lslig on input line 944.
-\MT@outer@space=\skip75
-)
-Package microtype Info: Loading configuration file microtype.cfg.
- (a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2026/03/01 v3.2d microtype main configuration file (RS)
-)
-LaTeX Info: Redefining \microtypesetup on input line 3065.
+\f@nch@headwidth=\skip62
+\f@nch@offset@elh=\skip63
+\f@nch@offset@erh=\skip64
+\f@nch@offset@olh=\skip65
+\f@nch@offset@orh=\skip66
+\f@nch@offset@elf=\skip67
+\f@nch@offset@erf=\skip68
+\f@nch@offset@olf=\skip69
+\f@nch@offset@orf=\skip70
+\f@nch@height=\skip71
+\f@nch@footalignment=\skip72
+\f@nch@widthL=\skip73
+\f@nch@widthC=\skip74
+\f@nch@widthR=\skip75
+\@temptokenb=\toks34
 ) (a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
  (a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/tex/latex/graphics/graphics.sty
@@ -445,7 +445,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip80
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 86.
+Package hyperref Info: Option `colorlinks' set `true' on input line 81.
  (a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count334
@@ -453,24 +453,44 @@ File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 No file Assignment1_Report.aux.
 \openout1 = `Assignment1_Report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Info: Redefining \microtypecontext on input line 91.
+Package microtype Info: Applying patch `item' on input line 91.
+Package microtype Info: Applying patch `toc' on input line 91.
+Package microtype Info: Applying patch `eqnum' on input line 91.
+Package microtype Info: Applying patch `footnote' on input line 91.
+Package microtype Info: Applying patch `verbatim' on input line 91.
+LaTeX Info: Redefining \microtypesetup on input line 91.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+Package microtype Info: Patching command `\showhyphens'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+)
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -505,26 +525,7 @@ LaTeX Font Info:    ... okay on input line 99.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 99.
-Package microtype Info: Applying patch `item' on input line 99.
-Package microtype Info: Applying patch `toc' on input line 99.
-Package microtype Info: Applying patch `eqnum' on input line 99.
-Package microtype Info: Applying patch `footnote' on input line 99.
-Package microtype Info: Applying patch `verbatim' on input line 99.
-LaTeX Info: Redefining \microtypesetup on input line 99.
-Package microtype Info: Generating PDF output.
-Package microtype Info: Character protrusion enabled (level 2).
-Package microtype Info: Using default protrusion set `alltext'.
-Package microtype Info: Automatic font expansion enabled (level 2),
-(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
-Package microtype Info: Using default expansion set `alltext-nott'.
-Package microtype Info: Patching command `\showhyphens'.
-Package microtype Info: No adjustment of tracking.
-Package microtype Info: No adjustment of interword spacing.
-Package microtype Info: No adjustment of character kerning.
-(a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
-) (a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count335
 \scratchdimen=\dimen272
@@ -548,17 +549,17 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count341
-Package hyperref Info: Link coloring ON on input line 99.
+Package hyperref Info: Link coloring ON on input line 91.
 \@outlinefile=\write3
 \openout3 = `Assignment1_Report.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 101.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 93.
  (a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 101.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 93.
  (a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/tex/latex/microtype/mt-msb.cfg
@@ -570,197 +571,109 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 
 
-LaTeX Warning: Reference `sec:ai_acknowledgment' on page 1 undefined on input line 106.
+LaTeX Warning: Reference `sec:ai_acknowledgment' on page 1 undefined on input line 98.
+
+
+Overfull \hbox (11.8493pt too wide) in paragraph at lines 119--121
+\T1/cmr/m/n/10.95 (-20) For in-put bins $\OML/cmm/m/it/10.95 r \OMS/cmsy/m/n/10.95 2 f\OT1/cmr/m/n/10.95 (-20) 0\OML/cmm/m/it/10.95 ; \OT1/cmr/m/n/10.95 (-20) 2\OML/cmm/m/it/10.95 ; \OT1/cmr/m/n/10.95 (-20) 5\OML/cmm/m/it/10.95 ; \OT1/cmr/m/n/10.95 (-20) 10\OML/cmm/m/it/10.95 ; \OT1/cmr/m/n/10.95 (-20) 15\OML/cmm/m/it/10.95 ; \OT1/cmr/m/n/10.95 (-20) 20\OMS/cmsy/m/n/10.95 g$\T1/cmr/m/n/10.95 (-20) , the map-ping $\OMS/cmsy/m/n/10.95 T$ \T1/cmr/m/n/10.95 (-20) is strictly bi-jec-tive into $\OML/cmm/m/it/10.95 C \OMS/cmsy/m/n/10.95 2 f\OT1/cmr/m/n/10.95 (-20) 6\OML/cmm/m/it/10.95 ; \OT1/cmr/m/n/10.95 (-20) 8\OML/cmm/m/it/10.95 ; \OT1/cmr/m/n/10.95 (-20) 11\OML/cmm/m/it/10.95 ; \OT1/cmr/m/n/10.95 (-20) 16\OML/cmm/m/it/10.95 ; \OT1/cmr/m/n/10.95 (-20) 21\OML/cmm/m/it/10.95 ; \OT1/cmr/m/n/10.95 (-20) 26\OMS/cmsy/m/n/10.95 g$\T1/cmr/m/n/10.95 (-20) : 
+ []
+
+
+Overfull \hbox (11.68164pt too wide) detected at line 125
+[]
+ []
+
+
+LaTeX Warning: Reference `tab:p1_mapping' on page 1 undefined on input line 135.
+
+
+LaTeX Warning: Reference `tab:p1_hist_C' on page 1 undefined on input line 135.
+
+
+Overfull \hbox (43.43578pt too wide) in paragraph at lines 165--180
+ [][] 
+ []
 
 [1{a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 
 ]
-
-LaTeX Warning: Reference `tab:p1_mapping' on page 2 undefined on input line 165.
-
-
-LaTeX Warning: Reference `tab:p1_hist_C' on page 2 undefined on input line 165.
-
-
-Overfull \hbox (5.41989pt too wide) in paragraph at lines 194--207
+Overfull \hbox (40.3964pt too wide) in paragraph at lines 200--211
  [][] 
  []
 
-[2]
+[2{a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [3] [4] [5]
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 246.
+LaTeX Warning: Reference `eq:p4_x1' on page 6 undefined on input line 386.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 246.
+LaTeX Warning: Reference `eq:p4_x2' on page 6 undefined on input line 386.
 
 
-LaTeX Warning: Reference `tab:p1_diff_hist' on page 3 undefined on input line 247.
+LaTeX Warning: Reference `eq:p4_x1' on page 6 undefined on input line 387.
 
-[3{a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 295.
+LaTeX Warning: Reference `eq:p4_x3' on page 6 undefined on input line 387.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 295.
+LaTeX Warning: Reference `eq:p4_x1' on page 6 undefined on input line 388.
 
 
-Overfull \hbox (28.50441pt too wide) in paragraph at lines 296--297
-\T1/cmr/m/n/10.95 (-20) A dig-i-tal path be-tween $\OML/cmm/m/it/10.95 p$ \T1/cmr/m/n/10.95 (-20) and $\OML/cmm/m/it/10.95 q$ \T1/cmr/m/n/10.95 (-20) is a se-quence of dis-tinct spa-tial co-or-di-nates $\OMS/cmsy/m/n/10.95 h\OT1/cmr/m/n/10.95 (-20) (\OML/cmm/m/it/10.95 x[]; y[]\OT1/cmr/m/n/10.95 (-20) )\OML/cmm/m/it/10.95 ; \OT1/cmr/m/n/10.95 (-20) (\OML/cmm/m/it/10.95 x[]; y[]\OT1/cmr/m/n/10.95 (-20) )\OML/cmm/m/it/10.95 ; [] ; \OT1/cmr/m/n/10.95 (-20) (\OML/cmm/m/it/10.95 x[]; y[]\OT1/cmr/m/n/10.95 (-20) )\OMS/cmsy/m/n/10.95 i$
- []
+LaTeX Warning: Reference `eq:p4_y1' on page 6 undefined on input line 397.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 328.
+LaTeX Warning: Reference `eq:p4_y2' on page 6 undefined on input line 397.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 328.
+LaTeX Warning: Reference `eq:p4_y1' on page 6 undefined on input line 398.
 
-[4]
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 346.
+LaTeX Warning: Reference `eq:p4_y3' on page 6 undefined on input line 398.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 346.
+LaTeX Warning: Reference `eq:p4_y1' on page 6 undefined on input line 399.
 
-[5] [6]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 443.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\times' on input line 443.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 443.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 446.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 446.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 455.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 455.
-
-[7] [8]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 528.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 528.
-
-
-LaTeX Warning: Reference `eq:x1' on page 9 undefined on input line 535.
-
-
-LaTeX Warning: Reference `eq:x2' on page 9 undefined on input line 535.
-
-
-LaTeX Warning: Reference `eq:x1' on page 9 undefined on input line 539.
-
-
-LaTeX Warning: Reference `eq:x3' on page 9 undefined on input line 539.
-
-
-LaTeX Warning: Reference `eq:x1' on page 9 undefined on input line 543.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 548.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 548.
-
-
-LaTeX Warning: Reference `eq:y1' on page 9 undefined on input line 555.
-
-
-LaTeX Warning: Reference `eq:y2' on page 9 undefined on input line 555.
-
-
-LaTeX Warning: Reference `eq:y1' on page 9 undefined on input line 559.
-
-
-LaTeX Warning: Reference `eq:y3' on page 9 undefined on input line 559.
-
-
-LaTeX Warning: Reference `eq:y1' on page 9 undefined on input line 563.
-
-[9] [10] [11]
-
-LaTeX Warning: Reference `tab:p5_equalization' on page 12 undefined on input line 679.
-
-
-Overfull \hbox (1.8511pt too wide) in paragraph at lines 685--699
+[6] [7]
+Overfull \hbox (19.85884pt too wide) in paragraph at lines 486--502
  [][] 
  []
 
-[12]
-Overfull \hbox (104.31175pt too wide) in paragraph at lines 722--738
- [][] 
- []
+[8]
 
-[13]
-Overfull \hbox (5.94392pt too wide) detected at line 775
-[][][]\OML/cmm/m/it/10.95 K[] \OT1/cmr/m/n/10.95 = [] \OML/cmm/m/it/10.95 ;  \OMS/cmsy/m/n/10.95 r[]\OML/cmm/m/it/10.95 f\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 x; y\OT1/cmr/m/n/10.95 ) = \OML/cmm/m/it/10.95 f\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 x \OT1/cmr/m/n/10.95 + 1\OML/cmm/m/it/10.95 ; y\OT1/cmr/m/n/10.95 ) + \OML/cmm/m/it/10.95 f\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 x \OMS/cmsy/m/n/10.95 ^^@ \OT1/cmr/m/n/10.95 1\OML/cmm/m/it/10.95 ; y\OT1/cmr/m/n/10.95 ) + \OML/cmm/m/it/10.95 f\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 x; y \OT1/cmr/m/n/10.95 + 1) + \OML/cmm/m/it/10.95 f\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 x; y \OMS/cmsy/m/n/10.95 ^^@ \OT1/cmr/m/n/10.95 1) \OMS/cmsy/m/n/10.95 ^^@ \OT1/cmr/m/n/10.95 4\OML/cmm/m/it/10.95 f\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 x; y\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 :
- []
+LaTeX Warning: Reference `fig:problem6_outputs' on page 9 undefined on input line 554.
 
-[14]
-
-LaTeX Warning: Reference `fig:problem6_outputs' on page 15 undefined on input line 826.
-
-<../outputs/sharpened_K4.png, id=268, 513.92pt x 513.92pt>
+<../outputs/sharpened_K4.png, id=132, 513.92pt x 513.92pt>
 File: ../outputs/sharpened_K4.png Graphic file (type png)
 <use ../outputs/sharpened_K4.png>
-Package pdftex.def Info: ../outputs/sharpened_K4.png  used on input line 832.
-(pdftex.def)             Requested size: 144.95303pt x 144.95525pt.
-<../outputs/sharpened_K8.png, id=269, 513.92pt x 513.92pt>
+Package pdftex.def Info: ../outputs/sharpened_K4.png  used on input line 560.
+(pdftex.def)             Requested size: 140.41893pt x 140.41486pt.
+<../outputs/sharpened_K8.png, id=133, 513.92pt x 513.92pt>
 File: ../outputs/sharpened_K8.png Graphic file (type png)
 <use ../outputs/sharpened_K8.png>
-Package pdftex.def Info: ../outputs/sharpened_K8.png  used on input line 839.
-(pdftex.def)             Requested size: 144.95303pt x 144.95525pt.
-<../outputs/hidden_watermark.png, id=270, 513.92pt x 513.92pt>
+Package pdftex.def Info: ../outputs/sharpened_K8.png  used on input line 566.
+(pdftex.def)             Requested size: 140.41893pt x 140.41486pt.
+<../outputs/hidden_watermark.png, id=134, 513.92pt x 513.92pt>
 File: ../outputs/hidden_watermark.png Graphic file (type png)
 <use ../outputs/hidden_watermark.png>
-Package pdftex.def Info: ../outputs/hidden_watermark.png  used on input line 846.
-(pdftex.def)             Requested size: 144.95303pt x 144.95525pt.
+Package pdftex.def Info: ../outputs/hidden_watermark.png  used on input line 572.
+(pdftex.def)             Requested size: 140.41893pt x 140.41486pt.
 
-LaTeX Warning: Reference `fig:sharp_k4' on page 15 undefined on input line 855.
+LaTeX Warning: Reference `fig:sharp_k4' on page 9 undefined on input line 581.
 
 
-LaTeX Warning: Reference `fig:sharp_k8' on page 15 undefined on input line 855.
+LaTeX Warning: Reference `fig:sharp_k8' on page 9 undefined on input line 581.
 
-[15 <../outputs/sharpened_K4.png (PNG copy)> <../outputs/sharpened_K8.png (PNG copy)> <../outputs/hidden_watermark.png (PNG copy)>] [16]
+[9]
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 866.
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 870.
-LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <9> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 888.
- [17] [18] [19]
-Overfull \hbox (29.50175pt too wide) in paragraph at lines 1022--1032
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 588.
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 592.
+LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <8> not available
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 610.
+ [10 <../outputs/sharpened_K4.png (PNG copy)> <../outputs/sharpened_K8.png (PNG copy)> <../outputs/hidden_watermark.png (PNG copy)>] [11] [12]
+Overfull \hbox (29.50175pt too wide) in paragraph at lines 744--754
 [] 
  []
 
-[20] (./Assignment1_Report.aux)
+[13] (./Assignment1_Report.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -779,21 +692,21 @@ Package rerunfilecheck Warning: File `Assignment1_Report.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `Assignment1_Report.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  9A7D26C8D0A0407E751F5918D3A81371;15068.
+(rerunfilecheck)             After:  D4B327E85D7920346B1C134A9F6FD962;11742.
  ) 
 Here is how much of TeX's memory you used:
- 18631 strings out of 467525
- 297537 string characters out of 5395279
- 1660771 words of memory out of 5000000
- 46701 multiletter control sequences out of 15000+600000
- 667653 words of font info for 263 fonts, out of 8000000 for 9000
+ 18503 strings out of 467525
+ 296283 string characters out of 5395279
+ 1605843 words of memory out of 5000000
+ 46708 multiletter control sequences out of 15000+600000
+ 667668 words of font info for 253 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,13n,79p,1201b,2581s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfit0900.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sftt1440.pfb>
-Output written on Assignment1_Report.pdf (20 pages, 1097561 bytes).
+ 75i,13n,79p,1201b,2575s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfit0800.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb><a:/folder_for_node05_SystemData/folder_for_node12_LaTex/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sftt1440.pfb>
+Output written on Assignment1_Report.pdf (13 pages, 1099351 bytes).
 PDF statistics:
- 670 PDF objects out of 1000 (max. 8388607)
- 562 compressed objects within 6 object streams
- 328 named destinations out of 1000 (max. 500000)
- 70672 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 518 PDF objects out of 1000 (max. 8388607)
+ 414 compressed objects within 5 object streams
+ 214 named destinations out of 1000 (max. 500000)
+ 72720 words of extra memory for PDF output out of 74296 (max. 10000000)
 
